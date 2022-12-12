@@ -1,0 +1,96 @@
+body{
+    color: gold;
+    margin-left: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    background-color: #000000;
+    text-align: center;
+    
+}
+.top-d p{
+    margin-top: 0;
+}
+.top-d{
+    margin-top: 0px;
+    position: relative; 
+    
+}
+h1{
+    font-size: 4rem;
+    margin-top: 0;
+}
+h2{
+    font-size: 2rem;
+}
+
+.ss{
+    margin-top:0px;
+    height: 320px;
+    left: 0;
+}
+.skillgif{
+    width: 200px;
+}
+.profile{
+    margin-top: 15px;
+}
+.profile img{
+    width :100px;
+}
+.profile p{
+    width :30%;
+    margin: auto;
+}
+hr{
+    margin:  40px auto;
+    border: dotted;
+    border-top: none;
+    width : 42%;
+    border-width: 11px;
+}
+.contact-me p{
+    padding: 0 20px 20px 20px;
+    margin-top: 0;
+}
+.btn {
+    background: #d9d934;
+    background-image: -webkit-linear-gradient(top, #d9d934, #b8892b);
+    background-image: -moz-linear-gradient(top, #d9d934, #b8892b);
+    background-image: -ms-linear-gradient(top, #d9d934, #b8892b);
+    background-image: -o-linear-gradient(top, #d9d934, #b8892b);
+    background-image: linear-gradient(to bottom, #d9d934, #b8892b);
+    -webkit-border-radius: 11;
+    -moz-border-radius: 11;
+    border-radius: 11px;
+    font-family: Georgia;
+    color: #000000;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #effc3c;
+    background-image: -webkit-linear-gradient(top, #effc3c, #6b671a);
+    background-image: -moz-linear-gradient(top, #effc3c, #6b671a);
+    background-image: -ms-linear-gradient(top, #effc3c, #6b671a);
+    background-image: -o-linear-gradient(top, #effc3c, #6b671a);
+    background-image: linear-gradient(to bottom, #effc3c, #6b671a);
+    text-decoration: none;
+  }
+  .bottom-container {
+    margin-top: 25px;
+    background-color: rgb(200, 200, 90);
+    padding: 25px;
+  }
+  .bottom-container p{
+    color: rgb(57, 53, 53);
+  }
+ a{
+    color: black;
+    text-decoration: none;
+  }
+ a:hover{
+    color: white;
+  }
